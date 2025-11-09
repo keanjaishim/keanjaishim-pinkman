@@ -8,7 +8,8 @@
       "version": "384.0.0",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Instagram.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Instagram.png",
-      "developerName": "Shimon"
+      "developerName": "Shimon",
+      "localizedDescription": "Instagram"
     },
     {
       "name": "2-Player-Games",
@@ -16,7 +17,8 @@
       "version": "7.9.7",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/2-Player-Games.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/2-Player-Games.png",
-      "developerName": "Shimon"
+      "developerName": "Shimon",
+      "localizedDescription": "2-Player-Games"
     },
     {
       "name": "Cardsvau",
@@ -24,7 +26,8 @@
       "version": "2.0.0",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Cardsvau.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Cardsvau.png",
-      "developerName": "Shimon"
+      "developerName": "Shimon",
+      "localizedDescription": "Cardsvau"
     },
     {
       "name": "CardsVauPatched",
@@ -32,7 +35,8 @@
       "version": "2.0.1",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/CardsVauPatched.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/CardsVau.png",
-      "developerName": "Shimon"
+      "developerName": "Shimon",
+      "localizedDescription": "CardsVauPatched"
     },
     {
       "name": "Spotify",
@@ -40,7 +44,8 @@
       "version": "2.6.0",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Spotify.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Spotify.png",
-      "developerName": "Shimon"
+      "developerName": "Shimon",
+      "localizedDescription": "Spotify"
     },
     {
       "name": "Youtube",
@@ -48,7 +53,8 @@
       "version": "20.44.2",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Youtube.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Youtube.png",
-      "developerName": "Shimon"
+      "developerName": "Shimon",
+      "localizedDescription": "Youtube"
     }
   ]
 }
