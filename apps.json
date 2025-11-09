@@ -12,7 +12,7 @@
     },
     {
       "name": "2-Player-Games",
-      "bundleIdentifier": "",
+      "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
       "version": "",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/2-Player-Games.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/2-Player-Games.png",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Cardsvau",
-      "bundleIdentifier": "",
+      "bundleIdentifier": "com.hmc.bizvault",
       "version": "",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Cardsvau.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Cardsvau.png",
@@ -28,7 +28,7 @@
     },
     {
       "name": "CardsVauPatched",
-      "bundleIdentifier": "",
+      "bundleIdentifier": "com.hmc.bizvault",
       "version": "",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/CardsVauPatched.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/CardsVau.png",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Spotify",
-      "bundleIdentifier": "",
+      "bundleIdentifier": "com.spotify.client",
       "version": "",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Spotify.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Spotify.png",
@@ -44,7 +44,7 @@
     },
     {
       "name": "Youtube",
-      "bundleIdentifier": "",
+      "bundleIdentifier": "com.google.ios.youtube",
       "version": "",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Youtube.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Youtube.png",
