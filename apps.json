@@ -13,7 +13,7 @@
     {
       "name": "2-Player-Games",
       "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
-      "version": "",
+      "version": "7.9.7",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/2-Player-Games.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/2-Player-Games.png",
       "developerName": "Shimon"
@@ -21,7 +21,7 @@
     {
       "name": "Cardsvau",
       "bundleIdentifier": "com.hmc.bizvault",
-      "version": "",
+      "version": "2.0.0",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Cardsvau.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Cardsvau.png",
       "developerName": "Shimon"
@@ -29,7 +29,7 @@
     {
       "name": "CardsVauPatched",
       "bundleIdentifier": "com.hmc.bizvault",
-      "version": "",
+      "version": "2.0.1",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/CardsVauPatched.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/CardsVau.png",
       "developerName": "Shimon"
@@ -37,7 +37,7 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "version": "",
+      "version": "2.6.0",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Spotify.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Spotify.png",
       "developerName": "Shimon"
@@ -45,7 +45,7 @@
     {
       "name": "Youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "",
+      "version": "20.44.2",
       "downloadURL": "https://github.com/keanjaishim/keanjaishim-pinkman/releases/download/release/Youtube.ipa",
       "iconURL": "https://raw.githubusercontent.com/keanjaishim/keanjaishim-pinkman/main/Icons/Youtube.png",
       "developerName": "Shimon"
